@@ -1,14 +1,11 @@
 .header  {
   font-family: monospace;
   background-color: papayawhip;
-  width:1000px;
   height: 70px;
   display: flex;
   flex-direction: row;
   justify-content: space-between;
   align-items: center;
-  border-top: 1px solid black;
-  border-right: 1px solid black;
 }
 
 .logo {
